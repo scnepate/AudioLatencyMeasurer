@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AudioLatencyMeasurer</string>
+    <string name="startLatencyMeasurement">START</string>
+    <string name="stopLatencyMeasurement">STOP</string>
 </resources>
